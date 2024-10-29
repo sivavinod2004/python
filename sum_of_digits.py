@@ -1,5 +1,5 @@
 '''
-Author: Sourav V S
+Author:sivapriya a v
 Date:08-10-2024
 This program is to determine the sum of digits of a number
 '''
