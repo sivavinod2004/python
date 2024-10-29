@@ -1,5 +1,5 @@
 """""
-AUTHOR:SIVAPRIYA
+AUTHOR:SIVAPRIYA A V
 DATE=08/10/2024
 PYTHON PROGRAM TO DISPLAY time and date in various formats
 """
