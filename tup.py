@@ -1,3 +1,6 @@
+#sivapriya a v
+#november 19
+#tuple
 fruits=("orange","mango","banana")
 print(fruits[0])
 print(fruits[2])
