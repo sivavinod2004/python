@@ -1,3 +1,7 @@
+#sivapriya
+#november19
+#employ management system
+
 inventory=[
     ("smart phone",20,50000),
     ("mouse",20,150),
